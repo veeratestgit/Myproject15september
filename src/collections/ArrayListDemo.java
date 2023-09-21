@@ -8,7 +8,7 @@ public class ArrayListDemo {
 		
 		// TODO Auto-generated method stub
 		
-		ArrayList<string> cities = new ArrayList<>();
+		ArrayList<String> cities = new ArrayList<>();
 		//checking add() method
 		cities.add("london");
 		cities.add("paris");
@@ -19,8 +19,7 @@ public class ArrayListDemo {
 		//print item in list
 		for(String t:cities){
 			System.out.println(t);
-		
-
+			}
 	}
-
 }
+
