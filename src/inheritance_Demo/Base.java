@@ -2,6 +2,8 @@ package inheritance_Demo;
 
 public class Base {
 	//parent class
+	int hours = 4;
+	int min = 35;
 	public void openbrowser(String browser){
 		System.out.println("open the browser"+ browser);
 	}
